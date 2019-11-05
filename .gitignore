@@ -1,3 +1,15 @@
+.vscode
+.idea*
+*.pyc
+.DS_Store
+**.log
+.pytest*
+.venv*
+.coverage
+.tox
+test_data/
+*.bak
+
 #eclise project files
 .cproject
 .project
